@@ -6,9 +6,9 @@ Set as a cronjob for as often as you would like disk space to be checked
 
 ## Settings
 At the top of the script you will find 3 options to change:  
-ADMIN – this is where you want notifications sent either a local account (root) or remote email address (you@yourdomain.tld)  
-ALERT – this is the level at which you want to be alerted   
-EXCLUDE_LIST – this defines partitions to ignore  
+ADMIN – where notifications are sent either a local account (root) or remote email address (you@yourdomain.tld)  
+ALERT – the level at which you want to be alerted   
+EXCLUDE_LIST – defines partitions to ignore  
 
 
 ## Requirements
